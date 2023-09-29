@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: "Josefin Sans", cursive;
+    text-align: center;
+    color: #75caca;
+}
+
+img{
+    border: 5px solid #75caca;
+    width: 100%
+}
+
+h1{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1rem;
+}
